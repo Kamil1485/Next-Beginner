@@ -1,0 +1,7 @@
+{
+  "people": [
+    { "id": "1", "name": "kamil", "age": "23" },
+    { "id": "2", "name": "mehmet", "age": "15" },
+    { "id": "3", "name": "esra", "age": "42" }
+  ]
+}

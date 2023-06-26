@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+  padding: 10px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.logo {
+  font-size: 22px;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+}
+.main-Title {
+  color: rgb(169, 71, 180);
+}
