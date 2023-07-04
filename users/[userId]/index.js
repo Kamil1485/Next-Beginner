@@ -1,4 +1,4 @@
-const UserDetail = () => {
-  return <div>UserDetail Page</div>;
+const UserDetail = ({params}) => {
+  return <div>User {params.userId} Details </div>;
 };
 export default UserDetail;
